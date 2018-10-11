@@ -1,2 +1,2 @@
 # Altamont-LFS
-David smells fantanstic
+David smells fantastic
